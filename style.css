@@ -1,0 +1,29 @@
+/* kleuren: logo #fcca83, background #721515, tekst #fcf7c3 
+   Lettertype:  logo: Showboat Regular, On Air:  Fishland Regular;
+*/
+
+@font-face {
+	font-family: Showboat Regular;
+	src: url(fonts/Showboat);
+}
+
+@font-face {
+	font-family: Fishland Regular;
+	src: url(fonts/Fishland);
+}
+
+h1{
+	color: #fff;
+	font-size: 8em;
+	text-align: center;
+	font-family: Fishland;
+}
+
+.bg-red{
+	background: #721515;
+}
+
+.titel-white{
+	color: #fff;
+}
+
